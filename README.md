@@ -1,10 +1,10 @@
 # 💻 C Programming
-** First Sem Practice Codes In Collage Lab**
+
 **Learning C Programming | Beginner Projects | Cybersecurity Foundations**
 
 Welcome to my **C Programming** repository! 👋
-
-I'm a **4th-semester B.Sc. IT student specializing in Cybersecurity**. This repository contains my C programming practice, basic programs, coding exercises, and learning projects.
+** First Sem Practice Codes In Collage Lab**
+This repository contains my C programming practice, basic programs, coding exercises, and learning projects.
 
 My goal is to strengthen my programming logic and build a strong foundation in computer science and cybersecurity.
 

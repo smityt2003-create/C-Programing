@@ -126,7 +126,7 @@ I'm learning by building practical projects and documenting my progress on GitHu
 
 ## 🤝 Connect
 
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [YOUR-USERNAME](https://github.com/smityt2003)
 
 ---
 

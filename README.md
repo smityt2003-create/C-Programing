@@ -1,135 +1,156 @@
-# Scripting-For-Hackers
-# 🛡️ Scripting for Hackers
+# 💻 C Programming
 
-**Python • Linux • Cybersecurity • Security Automation**
+**Learning C Programming | Beginner Projects | Cybersecurity Foundations**
 
-Welcome to **Scripting for Hackers**! 🚀
+Welcome to my **C Programming** repository! 👋
 
-This repository contains my cybersecurity scripting practice, automation tools, and security-related Python projects. As a 4th-semester B.Sc. IT student specializing in Cybersecurity, I'm building practical skills to understand how security tools work and how scripts can help identify and prevent security threats.
+I'm a **4th-semester B.Sc. IT student specializing in Cybersecurity**. This repository contains my C programming practice, basic programs, coding exercises, and learning projects.
+
+My goal is to strengthen my programming logic and build a strong foundation in computer science and cybersecurity.
 
 ## 🎯 Objectives
 
-- Learn Python scripting for cybersecurity.
-- Automate repetitive security tasks.
-- Understand Linux commands and system administration.
-- Practice networking and security analysis.
-- Build beginner-friendly ethical hacking tools.
-- Improve problem-solving and programming skills.
+- Learn C programming from the basics.
+- Improve logical thinking and problem-solving skills.
+- Understand how programs work at a low level.
+- Practice coding through small projects.
+- Build a foundation for cybersecurity and system programming.
 
-## 🧰 Tools & Technologies
+## 📚 Topics Covered
 
-- **Programming:** Python, Bash
-- **Operating Systems:** Kali Linux, Windows, Linux
-- **Networking:** Nmap, Wireshark
-- **Development:** VS Code, Git, GitHub
-- **Security Areas:** Network Security, Log Analysis, OSINT, Defensive Security
+- 📝 Basic Syntax and Structure
+- 🔢 Variables and Data Types
+- ⌨️ Input and Output (`printf`, `scanf`)
+- ➕ Operators and Expressions
+- 🔀 Conditional Statements (`if-else`, `switch`)
+- 🔁 Loops (`for`, `while`, `do-while`)
+- 📦 Arrays and Strings
+- ⚙️ Functions
+- 📍 Pointers
+- 🏗️ Structures and Unions
+- 📂 File Handling
+- 🧠 Memory Management Basics
 
-## 📚 Topics & Projects
+## 🛠️ Tools & Technologies
 
-### 🐍 Python Security Scripts
-- Host availability checker using Ping
-- Port scanner for authorized targets
-- Password strength checker
-- File integrity checker using hashes
-- Log file analyzer
-- Failed login attempt detector
-
-### 🐧 Linux & Bash Scripting
-- File and directory management
-- Linux system information gathering
-- Log monitoring and analysis
-- Automated backup scripts
-- Basic system security checks
-
-### 🌐 Networking & Reconnaissance
-- DNS lookup automation
-- WHOIS information gathering
-- IP address information tools
-- Network connectivity testing
-- Basic service discovery on authorized systems
-
-### 🔍 Security Automation
-- Suspicious activity detection
-- File change monitoring
-- Security log analysis
-- Automated system health checks
+- **Language:** C
+- **Compiler:** GCC
+- **Editor:** Visual Studio Code
+- **Version Control:** Git and GitHub
+- **Operating Systems:** Windows and Linux
 
 ## 📁 Repository Structure
 
 ```text
-Scripting-for-Hackers/
-├── python/
-│   ├── ping_checker.py
-│   ├── port_scanner.py
-│   ├── password_checker.py
-│   └── log_analyzer.py
-├── bash/
-│   ├── system_info.sh
-│   └── backup.sh
-├── networking/
-│   ├── dns_lookup.py
-│   └── connectivity_check.py
-├── defensive_security/
-│   ├── file_integrity.py
-│   └── failed_login_detector.py
+C-Programming/
+├── basics/
+│   └── hello_world.c
+├── operators/
+│   └── arithmetic.c
+├── conditional_statements/
+│   ├── even_odd.c
+│   └── largest_number.c
+├── loops/
+│   ├── multiplication_table.c
+│   └── factorial.c
+├── functions/
+├── arrays/
+├── strings/
+├── pointers/
+├── structures/
+├── file_handling/
 └── README.md
 ```
 
-*This is a planned structure. Files will be added as projects are developed.*
+*Note: The folders represent a suggested structure and can be updated as new programs are added.*
 
-## ⚙️ Getting Started
+## 🚀 Getting Started
 
-### Requirements
-- Python 3
-- Git
-- Linux or Windows with Python installed
-- Basic command-line knowledge
+### 1. Install a C Compiler
 
-### Clone the Repository
+Install GCC or another compatible C compiler.
+
+### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Scripting-for-Hackers.git
-cd Scripting-for-Hackers
+git clone https://github.com/YOUR-USERNAME/C-Programming.git
 ```
 
-### Run a Python Script
+### 3. Open the Project Folder
 
 ```bash
-python ping_checker.py
+cd C-Programming
 ```
 
-Some scripts may require additional packages or operating-system-specific commands. Check their individual instructions before running them.
+### 4. Compile a C Program
 
-## 📈 Learning Roadmap
+```bash
+gcc hello_world.c -o hello
+```
 
-- [x] Start learning Python fundamentals
-- [ ] Practice Linux and Bash scripting
-- [ ] Build basic networking scripts
-- [ ] Develop log analysis tools
-- [ ] Automate defensive security tasks
-- [ ] Create more advanced cybersecurity projects
-- [ ] Document project results and lessons learned
+### 5. Run the Program
 
-## ⚖️ Ethical Use & Disclaimer
+On Windows:
 
-This repository is intended for **educational purposes, defensive security, and authorized testing only**.
+```bash
+hello.exe
+```
 
-- Test only systems you own or have explicit permission to assess.
-- Follow applicable laws and responsible disclosure practices.
-- Never use these scripts to access systems without authorization.
+On Linux:
+
+```bash
+./hello
+```
+
+## 🧪 Beginner Programs
+
+Some programs I am practicing include:
+
+- Hello World
+- Addition of Two Numbers
+- Even or Odd Number
+- Largest of Two Numbers
+- Positive, Negative, or Zero
+- Multiplication Table
+- Factorial of a Number
+- Swapping Two Numbers
+- Leap Year Checker
+- Simple Calculator
+
+## 🎓 Learning Goals
+
+- [x] Start learning C programming
+- [ ] Practice conditional statements and loops
+- [ ] Learn arrays and strings
+- [ ] Understand functions and pointers
+- [ ] Practice structures and file handling
+- [ ] Build mini-projects
+- [ ] Explore system programming concepts
+
+## 🔐 Connection to Cybersecurity
+
+Learning C helps me understand important low-level concepts, including:
+
+- Memory management
+- Pointers and memory addresses
+- Buffer handling
+- Operating system fundamentals
+- Secure coding practices
+
+These concepts provide a foundation for studying software security and vulnerability prevention.
 
 ## 👨‍💻 About Me
 
-I'm a **4th-semester B.Sc. IT Cybersecurity student** interested in Python programming, ethical hacking, networking, and security automation.
+I'm a **4th-semester B.Sc. IT Cybersecurity student** interested in programming, ethical hacking, networking, and security automation.
 
-I'm learning by building practical projects and documenting my progress on GitHub.
+I'm learning step by step and sharing my coding journey through GitHub.
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
-- GitHub: [YOUR-USERNAME](https://github.com/smityt2003)
+- **GitHub:** [YOUR-USERNAME(https://github.com/smityt2003)
 
 ---
 
-⭐ **Learn. Script. Secure. Repeat.**
+⭐ **Learn • Code • Practice • Improve**
 
-*Building cybersecurity skills one script at a time.*
+*Building strong programming fundamentals, one program at a time.*

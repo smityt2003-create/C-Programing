@@ -1,9 +1,8 @@
 # 💻 C Programming
 
 **Learning C Programming | Beginner Projects | Cybersecurity Foundations**
-
+ First Sem Practice Codes In Collage Lab
 Welcome to my **C Programming** repository! 👋
-** First Sem Practice Codes In Collage Lab**
 This repository contains my C programming practice, basic programs, coding exercises, and learning projects.
 
 My goal is to strengthen my programming logic and build a strong foundation in computer science and cybersecurity.

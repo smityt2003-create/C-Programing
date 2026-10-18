@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    int num, i;
+    unsigned long long fact = 1;
+
+    printf("Enter a number (0-20): ");
+    scanf("%d", &num);
+
+    if (num < 0 || num > 20) {
+        printf("Enter a number between 0 and 20");
+    } else {
+        for (i = 1; i <= num; i++) {
+            fact = fact * i;
+        }
+
+        printf("Factorial = %llu", fact);
+    }
+
+    return 0;
+}
